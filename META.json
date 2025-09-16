@@ -1,0 +1,61 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.751012",
+  "default_ports": [
+    80,
+    443,
+    5000
+  ],
+  "dependencies": [],
+  "description": "privacyidea is a free and open-source multi-factor authentication system. privacyIDEA is a modular authentication system supporting various authentication devices, serving as an alternative to RSA SecurID or Duo",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/privacyidea",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/privacyidea",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.751037",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "privacyidea",
+  "repository_url": "https://github.com/howtomgr/privacyidea",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "privacyidea Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/privacyidea"
+}
